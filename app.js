@@ -2,7 +2,7 @@
 const config = {
     autoSlideInterval: 5000, // 5 segundos
     imageUrls: [
-        "https://github.com/cae911tecnicos/infoCaptura911/blob/main/imagenes/florespi6-5-25.PNG"
+        "https://raw.githubusercontent.com/cae911tecnicos/infoCaptura911/main/imagenes/florespi6-5-25.PNG"
     ]
 };
 
