@@ -1,7 +1,5 @@
 const imagenes = [
-  "https://github.com/cae911tecnicos/infoCaptura911/blob/main/imagenes/3641545%20Captura%20DB%20-%20SaeCad.PNG",
-  "https://github.com/cae911tecnicos/infoCaptura911/blob/main/imagenes/3641545%20ReprodHisto%201ra%20asig.PNG",
-  "https://github.com/cae911tecnicos/infoCaptura911/blob/main/imagenes/3641545%20ReprodHisto%20ultima%20asig.PNG"
+  "https://github.com/cae911tecnicos/infoCaptura911/blob/main/imagenes/florespi6-5-25.PNG",
 ];
 
 function loadCarousel() {
