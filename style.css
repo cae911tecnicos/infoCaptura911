@@ -13,7 +13,7 @@ body {
 /* Contenedor del carrusel */
 #carousel-container {
     width: 80%;
-    max-width: 800px;
+    max-width: 1200px;
     margin: 20px auto;
     overflow: hidden;
     position: relative;
@@ -26,7 +26,7 @@ body {
 #carousel {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    height: 400px; /* Altura fija para el carrusel */
+    height: 800px; /* Altura fija para el carrusel */
 }
 
 #carousel img {
