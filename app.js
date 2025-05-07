@@ -2,8 +2,8 @@
 const config = {
     autoSlideInterval: 5000, // 5 segundos
     imageUrls: [
-        "https://raw.githubusercontent.com/cae911tecnicos/infoCaptura911/main/imagenes/2a.jpg",
-        "https://raw.githubusercontent.com/cae911tecnicos/infoCaptura911/main/imagenes/1a.jpg",
+        "https://raw.githubusercontent.com/cae911tecnicos/infoCaptura911/main/imagenes/2a.jpeg",
+        "https://raw.githubusercontent.com/cae911tecnicos/infoCaptura911/main/imagenes/1a.jpeg",
         /*"https://raw.githubusercontent.com/cae911tecnicos/infoCaptura911/main/imagenes/*.PNG"*/
     ]
 };
